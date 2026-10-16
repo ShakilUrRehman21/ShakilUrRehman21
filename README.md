@@ -61,7 +61,6 @@ Tools
 
 ### 🌐 Connect With Me
 
-🌐 Connect With Me
 
 <p align="center"> <a href="https://linkedin.com/in/shakilurrehman21"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> &nbsp; <a href="https://github.com/shakilurrehman21"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
 

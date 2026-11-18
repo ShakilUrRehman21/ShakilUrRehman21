@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakil Ur Rehman</h1>
-<h3 align="center">Full Stack Developer • AI Builder • Next.js Enthusiast 🚀</h3>
+<h3 align="center">Software Engineer • Full Stack • Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakilurrehman21&label=Profile%20views&color=0e75b6&style=flat" alt="shakilurrehman21" />
@@ -9,64 +9,49 @@
 
 ### 🚀 About Me
 
-I'm a Full Stack Software Engineer focused on building production-grade applications from the ground up — from database architecture and authentication to scalable APIs and responsive interfaces.
+I am a highly technical early-career SDE focused on building resilient enterprise infrastructure, secure AI backends, and multi-stage LLM pipelines.
 
-- 🔭 Building AI-powered SaaS applications
-- 🤖 Working with Generative AI, LLM integrations & prompt-driven pipelines
-- 🏗️ Interested in system design, backend architecture & scalable APIs
-- ⚡ Building with Java, Spring Boot, Next.js & PostgreSQL
-- 🧠 Exploring AI engineering, system architecture & distributed systems
-- 👯 Open to collaborating on AI, SaaS & Full Stack projects
-- 🌱 Currently strengthening DSA & System Design
-- 📫 Reach me at **rehmanshakil21@gmail.com**
+- 🚀 **Currently building:** Enterprise-grade backends and AI-integrated systems (**FoodWise, Enterprise Brain, RepoLens**).
+- 🛠 **Open Source:** Successfully merged architectural PRs into **React (Meta), Next.js (Vercel), VS Code (Microsoft), Spring Boot, and Three.js**.
+- 🎓 **Education:** B.Tech in Computer Science (8.97 CGPA) | Google DigiPivot Scholar
+- 📫 **Reach me at:** **rehmanshakil21@gmail.com**
 
 ---
 
-### 🛠 Tech Stack
+### 💻 Core Architecture & Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,javascript,java,python,mysql,html,css" />
+**Core SDE & Backend:**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,nodejs" />
 </p>
+<i>REST APIs • System Design • Data Structures</i>
 
----
+**Databases & Infrastructure:**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,linux,git,github" />
+</p>
+<i>SQL • Flyway • Drizzle ORM</i>
 
-🛠️ Tech Stack
-Languages
+**Frontend Specialization:**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs" />
+</p>
+<i>WebGL • GSAP • Framer</i>
 
-<p> <img src="https://skillicons.dev/icons?i=java,python,javascript,sql" /> </p>
-
-Frontend
-
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> </p>
-
-Backend & APIs
-
-<p> <img src="https://skillicons.dev/icons?i=spring,nodejs" /> </p>
-
-REST APIs • Authentication • API Design • Scalable Architecture
-
-Databases & Cloud
-
-<p> <img src="https://skillicons.dev/icons?i=postgresql,mysql,aws" /> </p>
-
-AI / ML
-
-Machine Learning • Deep Learning • Generative AI • Gemini API • AI Pipelines
-
-Tools
-
-<p> <img src="https://skillicons.dev/icons?i=git,github" /> </p>
+**AI & Pipelines:** 
+<i>Generative AI • Google Gemini API • Groq • RAG Architecture</i>
 
 ---
 
 ### 🌐 Connect With Me
 
+<p align="center"> 
+  <a href="https://linkedin.com/in/shakilurrehman21"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> &nbsp; 
+  <a href="https://github.com/shakilurrehman21"> <img src="https://skillicons.dev/icons?i=github" /> </a> 
+</p>
 
-<p align="center"> <a href="https://linkedin.com/in/shakilurrehman21"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> &nbsp; <a href="https://github.com/shakilurrehman21"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
-
-<p align="center"> 📧 <b>rehmanshakil21@gmail.com</b> </p>
+<p align="center"> 🌍 <b><a href="https://shakil.in/">shakil.in</a></b> &nbsp; | &nbsp; 📧 <b>rehmanshakil21@gmail.com</b> </p>
 
 ---
 
-
-<p align="center"> <i>Building scalable software, intelligent systems, and AI-powered products.</i> </p>
+<p align="center"> <i>Building scalable software, intelligent systems, and enterprise backends.</i> </p>
